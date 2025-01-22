@@ -2,6 +2,7 @@
 # Sales Anlaysis Dashboard
 
 The Sales Analysis Dashboard is a Streamlit web application designed to analyze sales leads data. It provides key insights such as win rates, average process duration, and active leads, along with detailed visualizations to enhance decision-making.
+Check it out here 🚀: https://sales-analysis-6q8n4fbauod5eeazt4pvzp.streamlit.app/ 
 
 ### Features
 - Upload CSV files to analyze sales leads and their performance.
